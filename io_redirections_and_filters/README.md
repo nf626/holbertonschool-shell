@@ -18,3 +18,7 @@ Hidden directories should be counted.<br>
 Requirements:<br>
 One file per line.<br>
 Sorted from the newest to the oldest.<br>
+13. Being unique is better than being perfect - Create a script that takes a list of words as input and prints only words that appear exactly once.<br>
+Input format: One line, one word.<br>
+Output format: One line, one word.<br>
+Words should be sorted.
