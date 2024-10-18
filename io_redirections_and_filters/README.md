@@ -27,3 +27,4 @@ Words should be sorted.
 17. I hate bins - Display all the lines in the file /etc/passwd that do not contain the pattern "bin".<br>
 18. Letters only please - Display all lines of the file /etc/ssh/sshd_config starting with a letter.<br>
 Include capital letters as well.<br>
+19. A to Z - Replace all characters A and c from input to Z and e respectively.<br>
