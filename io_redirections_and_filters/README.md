@@ -29,3 +29,6 @@ Words should be sorted.
 Include capital letters as well.<br>
 19. A to Z - Replace all characters A and c from input to Z and e respectively.<br>
 20. Without C, you would live in hiago - Create a script that removes all letters c and C from input.<br>
+21. esreveR - Write a script that reverse its input.<br>
+22. DJ Cut Killer - Write a script that displays all users and their home directories, sorted by users.<br>
+Based on the the /etc/passwd file
