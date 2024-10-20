@@ -38,3 +38,12 @@ Hidden files should be listed.<br>
 One file name per line.<br>
 The listing should end with a new line.<br>
 You are not allowed to use basename, grep, egrep, fgrep or rgrep.<br>
+24. A gif is worth ten thousand words - Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.<br>
+Hidden files should be listed.<br>
+Only regular files (not directories) should be listed.<br>
+The names of the files should be displayed without their extensions.<br>
+The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)<br>
+One file name per line.<br>
+The listing should end with a new line.<br>
+25. Acrostic - Create a script that decodes acrostics that use the first letter of each line.<br>
+The 'decoded' message has to end with a new line.<br>
